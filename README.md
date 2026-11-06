@@ -9,9 +9,11 @@ A simple PHP + MySQL digital identity card management system built for XAMPP.
 - Profile image upload support
 - MySQL-backed data storage
 
-## Default admin account
+## Initial local admin account
 - Username: admin
 - Password: admin123
+
+Change the initial password before making the application publicly accessible.
 
 ## Run locally
 1. Start Apache and MySQL in XAMPP.
